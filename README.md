@@ -1,12 +1,12 @@
 # Apache-Spark
-What is Spark
+## What is Spark?
 Apache Spark is a unified analytics engine for large-scale data processing. It provides high-level APIs in Java, Scala, Python and R, and an optimized engine that supports general execution graphs. It also supports a rich set of higher-level tools including Spark SQL for SQL and structured data processing, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for incremental computation and stream processing.
 
 Apache Spark has transformed the world of Big Data. It is the most active big data tool reshaping the big data market. This open-source distributed computing platform offers more powerful advantages than any other proprietary solutions. The diverse advantages of Apache Spark make it a very attractive big data framework.
 
 Apache Spark has huge potential to contribute to the big data-related business in the industry. Let’s now have a look at some of the common benefits of Apache Spark:
 
-Benefits of Apache Spark:
+## Benefits of Apache Spark:
 
 - Speed
 - Ease of Use
